@@ -1,7 +1,7 @@
 import java.util.*;
 public class FascinatingNumber {
   public static void main(String[] args) {
-      int n = 193;
+      int n = 192;
       int var2 = n * 2;
       int var3 = n * 3;
 
