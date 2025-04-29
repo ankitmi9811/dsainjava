@@ -12,9 +12,7 @@ class Main
           {
             c=arr[i];
           }
-          else {
-            continue;
-          }
+           
         }
         System.out.println(c);
     }
